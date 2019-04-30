@@ -3,4 +3,18 @@
     padding: 10%;
     color: white;
     background-color: #192733;
+    text-align: center;
+}
+.middle
+{
+    padding: 80%;
+    color: black;
+    background-color: whitesmoke;
+}
+.footer
+{
+    padding: 10%;
+    color: white;
+    background-color: #192733;
+    text-align: center;
 }
