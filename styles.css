@@ -2,14 +2,7 @@
 {
     padding: 15%;
     color: white;
-    background-color: #192733;
-    text-align: center;
-}
-
-.navbar navbar-dark bg-dark
-{
-    background-color: #192733;
-    color: white;
+    background-color: darkgrey;
     text-align: center;
 }
 
@@ -35,6 +28,6 @@
 {
     padding: 7.5%;
     color: white;
-    background-color: #192733;
+    background-color: darkgrey;
     text-align: center;
 }
