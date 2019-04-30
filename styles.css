@@ -17,6 +17,12 @@
     text-align: center;
 }
 
+img
+{
+    border: 2px solid white;
+    border-radius: 50px;
+}
+
 .foot
 {
     padding: 7.5%;
