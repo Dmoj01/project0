@@ -5,12 +5,14 @@
     background-color: #192733;
     text-align: center;
 }
+
 .main
 {
-    padding: 40% 10% 40% 10%;
+    padding: 40% 0% 40% 10%;
     color: black;
     background-color: whitesmoke;
 }
+
 .footer
 {
     padding: 5%;
