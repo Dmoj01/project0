@@ -6,6 +6,13 @@
     text-align: center;
 }
 
+.navbar navbar-dark bg-dark
+{
+    background-color: #192733;
+    color: white;
+    text-align: center;
+}
+
 .main
 {
     padding-top: 10%;
