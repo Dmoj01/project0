@@ -6,7 +6,7 @@
     text-align: center;
 }
 
-#nav
+.navbar navbar-dark bg-dark
 {
     color: white;
     background-color: #192733;
