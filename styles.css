@@ -8,9 +8,13 @@
 
 .main
 {
-    padding: 10% 10% 20% 10%;
+    padding-top: 10%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 20%;
     color: black;
     background-color: whitesmoke;
+    text-align: center;
 }
 
 .foot
