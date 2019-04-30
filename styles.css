@@ -1,6 +1,6 @@
 .header
 {
-    padding: 7.5%;
+    padding: 10%;
     color: white;
     background-color: #192733;
     text-align: center;
@@ -8,14 +8,14 @@
 
 .main
 {
-    padding: 40%;
+    padding: 20% 0% 20% 10%;
     color: black;
     background-color: whitesmoke;
 }
 
 .footer
 {
-    padding: 2.5%
+    padding: 5%
     color: white;
     background-color: #192733;
     text-align: center;
