@@ -42,6 +42,16 @@ td
   box-shadow: 2px 2px 4px lightgrey;
 }
 
+th
+{
+    background-color: whitesmoke;
+}
+
+td
+{
+    background-color: whitesmoke;
+}
+
 .section
 {
   margin: 2%;
