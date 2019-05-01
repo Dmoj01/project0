@@ -2,7 +2,7 @@
 {
     padding: 15%;
     color: white;
-    background-color: firebrick;
+    background-color: black;
     text-align: center;
     font-family: "Courier New", Courier, monospace;
 }
@@ -15,7 +15,7 @@
 
 .nav
 {
-    background-color: firebrick;
+    background-color: black;
 }
 
 #th
@@ -30,7 +30,7 @@ td
 
 #dropdownMenuButton
 {
-    background-color: firebrick;
+    background-color: black;
     color: white;
     border: none;
 }
