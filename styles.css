@@ -2,8 +2,9 @@
 {
     padding: 15%;
     color: white;
-    background-color: #2F4550;
+    background-color: maroon;
     text-align: center;
+    font-family: "Courier New", Courier, monospace;
 }
 
 .main
@@ -14,7 +15,7 @@
 
 .nav
 {
-    background-color: #2F4550;
+    background-color: maroon;
 }
 
 #th
@@ -29,7 +30,7 @@ td
 
 #dropdownMenuButton
 {
-    background-color: #2F4550;
+    background-color: maroon;
     color: white;
     border: none;
 }
