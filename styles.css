@@ -2,21 +2,27 @@
 {
     padding: 15%;
     color: white;
-    background-color: darkgrey;
+    background-color: cyan;
     text-align: center;
 }
 
 .main
 {
-    padding-top: 10%;
-    padding-right: 10%;
-    padding-left: 10%;
-    padding-bottom: 20%;
-    color: black;
-    background-color: whitesmoke;
-    text-align: center;
+
 }
 
+.section
+{
+  margin: 1%;
+  padding-top: 10%;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-bottom: 20%;
+  color: black;
+  background-color: whitesmoke;
+  text-align: center;
+  box-shadow: 2px 2px 4px lightgrey;
+}
 .image
 {
     border: 2px solid white;
@@ -28,6 +34,6 @@
 {
     padding: 7.5%;
     color: white;
-    background-color: darkgrey;
+    background-color: cyan;
     text-align: center;
 }
