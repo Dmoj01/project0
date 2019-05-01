@@ -17,6 +17,16 @@
     background-color: #2F4550;
 }
 
+th
+{
+    background-color: #2F4550;
+}
+
+td
+{
+  background-color: white;
+}
+
 #dropdownMenuButton
 {
     background-color: #2F4550;
