@@ -8,7 +8,7 @@
 
 .main
 {
-    background-color: whitesmoke;
+    background-color: white;
 }
 
 .nav
@@ -31,13 +31,13 @@
   padding-left: 10%;
   padding-bottom: 20%;
   color: black;
-  background-color: white;
+  background-color: whitesmoke;
   text-align: center;
   box-shadow: 2px 2px 4px lightgrey;
 }
 .image
 {
-    border: 3px solid lightgrey;
+    border: 3px solid white;
     border-radius: 50%;
     margin: 1%;
 }
