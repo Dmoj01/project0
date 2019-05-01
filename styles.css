@@ -2,7 +2,7 @@
 {
     padding: 10%;
     color: white;
-    background-color: #a51c30;
+    background-color: #36454F;
     text-align: center;
 }
 
@@ -14,7 +14,7 @@
 
 .nav
 {
-    background-color: #a51c30;
+    background-color: #36454F;
 }
 
 #th
@@ -29,7 +29,7 @@ td
 
 #dropdownMenuButton
 {
-    background-color: #a51c30;
+    background-color: #36454F;
     color: white;
     border: none;
 }
@@ -94,6 +94,6 @@ li
 {
     padding: 7.5%;
     color: white;
-    background-color: #a51c30;
+    background-color: #36454F;
     text-align: center;
 }
