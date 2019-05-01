@@ -2,7 +2,7 @@
 {
     padding: 10%;
     color: white;
-    background-color: #800020;
+    background-color: #a51c30;
     text-align: center;
     font-family: "Courier New", Courier, monospace;
 }
@@ -15,7 +15,7 @@
 
 .nav
 {
-    background-color: #800020;
+    background-color: #a51c30;
 }
 
 #th
@@ -30,7 +30,7 @@ td
 
 #dropdownMenuButton
 {
-    background-color: #800020;
+    background-color: #a51c30;
     color: white;
     border: none;
 }
@@ -95,6 +95,6 @@ li
 {
     padding: 7.5%;
     color: white;
-    background-color: #282828;
+    background-color: #a51c30;
     text-align: center;
 }
