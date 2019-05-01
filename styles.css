@@ -36,6 +36,20 @@
   text-align: center;
   box-shadow: 2px 2px 4px lightgrey;
 }
+
+.section2
+{
+  margin: 2%;
+  padding-top: 10%;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-bottom: 20%;
+  color: black;
+  background-color: white;
+  text-align: center;
+  box-shadow: 2px 2px 4px lightgrey;
+}
+
 .image
 {
     border: 3px solid white;
