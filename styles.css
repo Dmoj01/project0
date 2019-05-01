@@ -16,6 +16,13 @@
     background-color: #2F4550;
 }
 
+#dropdownMenuButton
+{
+    background-color: #2F4550;
+    color: white;
+    border: none;
+}
+
 .section
 {
   margin: 2%;
