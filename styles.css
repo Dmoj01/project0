@@ -97,8 +97,8 @@ li
     border: 3px solid white;
     border-radius: 50%;
     margin: 1%;
-    width: 100px;
-    height: 100px;
+    width: 75px;
+    height: 75px;
 }
 
 @media only screen and (max-width: 768px) {
