@@ -17,15 +17,6 @@
     box-shadow: 2px 2px 4px lightgrey;
 }
 
-#th
-{
-  background-color: whitesmoke;
-}
-
-td
-{
-    background-color: white;
-}
 
 #dropdownMenuButton
 {
@@ -44,7 +35,7 @@ td
 
 #th
 {
-    background-color: whitesmoke;
+  background-color: whitesmoke;
 }
 
 td
@@ -78,11 +69,6 @@ td
   box-shadow: 2px 2px 4px lightgrey;
 }
 
-li
-{
-    margin: 1% 0% 1% 0%;
-}
-
 .image
 {
     border: 3px solid white;
@@ -97,8 +83,8 @@ li
     border: 3px solid white;
     border-radius: 50%;
     margin: 1%;
-    width: 75px;
-    height: 75px;
+    width: 50px;
+    height: 50px;
 }
 
 @media only screen and (max-width: 768px) {
