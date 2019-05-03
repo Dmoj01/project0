@@ -2,8 +2,9 @@
 {
     padding: 10%;
     color: white;
-    background-color: #36454F;
+    background-color: deepskyblue;
     text-align: center;
+    box-shadow: 2px 2px 4px lightgrey;
 }
 
 .main
@@ -14,7 +15,7 @@
 
 .nav
 {
-    background-color: #36454F;
+    background-color: deepskyblue;
 }
 
 #th
@@ -118,6 +119,6 @@ li
 {
     padding: 7.5%;
     color: white;
-    background-color: #36454F;
+    background-color: #282828;
     text-align: center;
 }
