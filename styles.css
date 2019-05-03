@@ -2,7 +2,7 @@
 {
     padding: 10%;
     color: white;
-    background-color: deepskyblue;
+    background-color: #007bf2;
     text-align: center;}
 
 .main
@@ -13,13 +13,13 @@
 
 .nav
 {
-    background-color: deepskyblue;
+    background-color: #007bf2;
 }
 
 
 #dropdownMenuButton
 {
-    background-color: deepskyblue;
+    background-color: #007bf2;
     color: white;
     border: none;
 }
