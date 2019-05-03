@@ -92,10 +92,21 @@ li
     height: 500px;
 }
 
+.image2
+{
+    border: 3px solid white;
+    border-radius: 50%;
+    margin: 1%;
+}
+
 @media only screen and (max-width: 600px) {
     .image {
       width: 250px;
       height: 250px;
+    }
+
+    .main{
+      background-color: blue;
     }
 }
 
