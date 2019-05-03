@@ -2,7 +2,6 @@
 {
     padding: 10%;
     color: white;
-    background-color: #007bf2;
     text-align: center;}
 
 .main
@@ -11,15 +10,9 @@
     padding: 2.5%;
 }
 
-.nav
-{
-    background-color: #007bf2;
-}
-
 
 #dropdownMenuButton
 {
-    background-color: #007bf2;
     color: white;
     border: none;
 }
