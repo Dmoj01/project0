@@ -16,7 +16,10 @@
 
 .section {
   margin: 2%;
-  padding: 10% 10% 10% 20%;
+  padding-top: 10%;
+  padding-right: 10%;
+  padding-bottom: 20%;
+  padding-left: 10%;
   color: black;
   background-color: whitesmoke;
   box-shadow: 2px 2px 4px lightgrey;
