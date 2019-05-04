@@ -17,6 +17,12 @@ $primary-color: #0078d7;
     {
       color: white;
     }
+
+    a:hover
+    {
+      background-color: white;
+      color: $primary-color;
+    }
   }
 }
 

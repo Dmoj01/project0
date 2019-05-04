@@ -36,3 +36,13 @@ to find out more about me and my personal achievements.
   qualifications.html contains a header that changes for each page according to the page's name, a Bootstrap component(Dropdown), a middle section containing all of my Qualifications
 
   and a footer.
+
+# Stylesheets
+
+1. styles.css
+
+  Contains most of the style of the website.
+
+2. sstyles.css
+
+  Contains the rest of the style of the website, this file is a compiled Sass file.
