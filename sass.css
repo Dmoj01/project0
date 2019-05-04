@@ -1,0 +1,25 @@
+.head {
+  background-color: #007bf2;
+}
+
+.nav {
+  background-color: #007bf2;
+}
+.nav a {
+  background-color: #007bf2;
+}
+
+#dropdownMenuButton {
+  background-color: #007bf2;
+}
+
+.section {
+  margin: 2%;
+  padding: 10% 10% 10% 20%;
+  color: black;
+  background-color: whitesmoke;
+  text-align: center;
+  box-shadow: 2px 2px 4px lightgrey;
+}
+
+/*# sourceMappingURL=sass.css.map */

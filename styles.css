@@ -2,8 +2,8 @@
 {
     padding: 10%;
     color: white;
-    background-color: #007bf2;
     text-align: center;}
+}
 
 .main
 {
@@ -11,15 +11,8 @@
     padding: 2.5%;
 }
 
-.nav
-{
-    background-color: #007bf2;
-}
-
-
 #dropdownMenuButton
 {
-    background-color: #007bf2;
     color: white;
     border: none;
 }
@@ -40,19 +33,6 @@
 td
 {
     background-color: whitesmoke;
-}
-
-.section
-{
-  margin: 2%;
-  padding-top: 10%;
-  padding-right: 10%;
-  padding-left: 10%;
-  padding-bottom: 20%;
-  color: black;
-  background-color: whitesmoke;
-  text-align: center;
-  box-shadow: 2px 2px 4px lightgrey;
 }
 
 .section2

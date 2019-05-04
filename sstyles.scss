@@ -1,0 +1,36 @@
+$primary-color: #007bf2;
+
+.head
+{
+    background-color: $primary-color;
+}
+
+.nav
+{
+  background-color: $primary-color;
+
+  a
+  {
+    background-color: $primary-color;
+  }
+}
+
+#dropdownMenuButton
+{
+  background-color: $primary-color;
+}
+
+%section
+{
+  margin: 2%;
+  padding: 10% 10% 10% 20%;
+  color: black;
+  background-color: whitesmoke;
+  text-align: center;
+  box-shadow: 2px 2px 4px lightgrey;
+}
+
+.section
+{
+  @extend %section;
+}
