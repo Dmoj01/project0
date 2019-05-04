@@ -5,7 +5,7 @@
 .nav {
   background-color: #007bf2;
 }
-.nav a {
+.nav .dropdown-menu {
   background-color: #007bf2;
 }
 
@@ -18,8 +18,11 @@
   padding: 10% 10% 10% 20%;
   color: black;
   background-color: whitesmoke;
-  text-align: center;
   box-shadow: 2px 2px 4px lightgrey;
+}
+
+.section {
+  text-align: center;
 }
 
 /*# sourceMappingURL=sass.css.map */
