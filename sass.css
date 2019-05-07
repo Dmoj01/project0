@@ -4,10 +4,6 @@
 
 .nav {
   background-color: #0078d7;
-}
-.nav .dropdown-menu {
-  background-color: #0078d7;
-}
 .nav .dropdown-menu a {
   color: white;
 }
