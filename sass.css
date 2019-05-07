@@ -4,15 +4,10 @@
 
 .nav {
   background-color: #0078d7;
-.nav .dropdown-menu a {
-  color: white;
 }
-
-.nav .dropdown-menu
-{
+.nav .dropdown-menu {
   background-color: #0078d7;
 }
-
 .nav .dropdown-menu a:hover {
   background-color: white;
   color: #0078d7;
